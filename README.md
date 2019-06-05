@@ -1,4 +1,7 @@
 <html>
+  h1 {
+  color: blue;
+  }
   
   <h1>This is header 1</h1>
   <h2>This is header 2</h2>
